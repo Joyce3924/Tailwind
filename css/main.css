@@ -904,11 +904,11 @@ video {
   filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
 
-body{
+body {
   background-image: url('../img/bg-tablet-pattern.svg');
-  background-repeat: no-repeat ;
+  background-repeat: no-repeat;
   background-size: 800px;
-  background-position: 90%, -25%;
+  background-position: 90% -25%;
 }
 
 #cta {
@@ -938,8 +938,8 @@ body{
 }
 
 .hamburger-top,
-  .hamburger-middle,
-  .hamburger-bottom {
+.hamburger-middle,
+.hamburger-bottom {
   position: absolute;
   top: 0;
   left: 0;
